@@ -7,3 +7,5 @@ For running the application execute the following commands:
 - navigate to the root directory of the project e.g: /user/IMDBQuest
 - run the following command: pip install -r requirements.txt
 - run IMDBQuest.py with the following command: python IMDBQuest.py
+
+The results can be found in the next txt file: imdbquest/results/imdb_top20_movies.txt
